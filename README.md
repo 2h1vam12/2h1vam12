@@ -51,7 +51,7 @@ Currently building secure systems, exploring mainframe technologies, and managin
 Bachelor of Science in Computer Science  
 Minors: Business Fundamentals, Data Science  
 Undergraduate Certificate in Cyber Security and Secure Computing  
-📅 Expected Graduation: May 2026 | GPA: 3.4
+📅 Expected Graduation: May 2026
 
 ---
 
