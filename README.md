@@ -57,9 +57,13 @@ Undergraduate Certificate in Cyber Security and Secure Computing
 
 ## 🧑‍💼 Experience
 
+- **Systems Engineer Intern @ Visa**
+  Supporting enterprise systems and mainframe infastructure with automation projects on the Orchestration Team
+  Gaining hands-on expirience with mainframe operations, linux systems, rexx, and internal tooling.
+
 - **IBM Z Student Ambassador**  
   Promoting mainframe tech on campus, running events and workshops.  
-  Earned IBM Z Concepts badge.
+  Earned many IBM Z and Interskill Badges
 
 - **Leader @ Kodely**  
   Mentored K-12 students in computer science fundamentals and led hands-on coding workshops.  
@@ -84,6 +88,8 @@ Undergraduate Certificate in Cyber Security and Secure Computing
 
 ## 📜 Certifications
 
+- Quantum Computing Foundations - Interskill (May 2025)
+- IBM Z Day 2025 SE- AI and Data - IBM (April 2025)
 - IBM Z Xplore Advanced Badge - IBM (March 2025)
 - IBM Z Xplore Concepts Badge – IBM (Feb 2025)  
 - Applications of AI (Anomaly Detection) – NVIDIA (Nov 2023)  
