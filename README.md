@@ -19,7 +19,7 @@ Currently building secure systems, exploring mainframe technologies, and managin
 - **Languages:** C++, Python, Assembly, PHP, HTML, SQL, Rust, C#, C, JCL, COBOL  
 - **Databases:** MySQL, SQL Server, Power BI  
 - **Cybersecurity:** SQL Injection Testing, Secure Database Design  
-- **Tools & Tech:** PL/SQL, T-SQL, IBM Z, COBOL, NVIDIA CUBA  
+- **Tools & Tech:** PL/SQL, T-SQL, IBM Z, COBOL, NVIDIA CUDA
 
 ---
 
